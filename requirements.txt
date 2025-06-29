@@ -1,0 +1,7 @@
+ollama
+mcp[cli]
+flask
+langgraph
+langchain-mcp-adapters
+langchain-ollama
+uv
